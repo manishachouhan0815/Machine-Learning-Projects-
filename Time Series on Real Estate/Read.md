@@ -1,5 +1,5 @@
-What is real estate data?
-Real estate data gives you information about properties, their purpose, their value, and their ownership. It’s most used by data-driven real estate investors so that they can make informed decisions about where to invest their money most wisely, based on real-time property values.
+# What is real estate data?
+## Real estate data gives you information about properties, their purpose, their value, and their ownership. It’s most used by data-driven real estate investors so that they can       make informed decisions about where to invest their money most wisely, based on real-time property values.
 
 What are the sources and collection methods of real estate data?
 Real estate data is collected from both public and commercial records that can be found via municipal, realtor, and broker websites or archives. In fact, much of the real estate data out there resides in non-digital paper files, which reduces the amount of publicly available datasets for transaction purposes.
